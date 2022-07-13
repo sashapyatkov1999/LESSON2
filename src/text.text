@@ -1,0 +1,16 @@
+import java.util.Arrays;
+import java.util.Locale;
+
+public class Lesson1 {
+    public static void main(String[] args) {   \\ задача 1
+          String number = "234";
+          int nubmer2 = Integer.parseInt(number);
+          String text = "some_text";
+          int lenght = text.length();
+          System.out.println(nubmer2+lenght);
+
+     }
+
+
+
+
